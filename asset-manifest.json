@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/novosoft-todo-app/static/css/main.28459606.css",
+    "main.js": "/novosoft-todo-app/static/js/main.81659952.js",
+    "index.html": "/novosoft-todo-app/index.html",
+    "main.28459606.css.map": "/novosoft-todo-app/static/css/main.28459606.css.map",
+    "main.81659952.js.map": "/novosoft-todo-app/static/js/main.81659952.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28459606.css",
+    "static/js/main.81659952.js"
+  ]
+}
